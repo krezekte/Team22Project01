@@ -4,4 +4,4 @@ Project 1 for MGMT 382 class, team 22.
 
 Website for Khaana, a foodservice company
 
-Kelly Rezek-Te Winkle - company products page
+Kelly Rezek-Te Winkle - company products page/team cover
